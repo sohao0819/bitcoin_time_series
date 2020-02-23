@@ -1,0 +1,5 @@
+feedback:
+  script:
+  - run_kate . cspark/ads04-time-series:production
+  tags:
+  - kate2.0
